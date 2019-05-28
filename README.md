@@ -16,3 +16,5 @@ CSS-анимация не обязательна, но желательна.
 Link for previous solution
 https://github.com/annakondr/anna_kondratiuk/pull/2/commits/3a8444af4c1b076552a7e5c531924792b512e36a
 
+gh-pages
+https://annakondr.github.io/move_the_ball/
